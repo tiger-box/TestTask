@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Test": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Test file-log arg": {
+      "commandName": "Project",
+      "commandLineArgs": "--file-log ../../../../log.txt\r\n--file-output ../../../../out.txt"
+    }
+  }
+}
